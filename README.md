@@ -89,10 +89,9 @@ Professional portfolio management system with AI integration and PostgreSQL back
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:nirajjhapate1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nirajjhapate1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
