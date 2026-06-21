@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Niraj%20Jhapate&fontSize=65&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Application+Builder;Open+Source+Contributor;Chrome+Extension+Developer;React+%7C+Node.js+%7C+PostgreSQL"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Application+Builder;Open+Source+Contributor;UI+UX+Developer;React+%7C+Node.js+%7C+PostgreSQL"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhapate0704&style=for-the-badge&color=blueviolet"/>
